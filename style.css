@@ -1838,7 +1838,7 @@ body {
    ============================================ */
 .testimonials-avatars-container {
     position: absolute;
-    top: -100%;
+    top: 50%;
     right: 150px;
     transform: translateY(-50%);
     display: flex;
